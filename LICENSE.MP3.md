@@ -5,6 +5,8 @@ This file covers the licensing terms for the audio files located in this directo
 ## Primary Work: Mume Soundtrack
 **Copyright © 2026 Lewis Buckingham**
 
+The audio was produced using a hybrid workflow where AI served as a tool for generating raw orchestral textures. Human creativity drove the process through technical prompt engineering—translating atmospheric concepts into musical motifs—followed by manual post-production. Each track was deconstructed into stems and remixed by hand to ensure precise thematic alignment and seamless looping.
+
 Except where otherwise noted, all `.mp3` files in this directory are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** License.
 
 ### Permissions & Conditions:
